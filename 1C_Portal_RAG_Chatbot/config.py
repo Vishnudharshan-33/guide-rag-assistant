@@ -6,7 +6,7 @@ Store your OpenAI API key here
 import os
 
 # OpenAI Configuration
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "Paste your OPENAI Key here"
 
 
 # File paths
